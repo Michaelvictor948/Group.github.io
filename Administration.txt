@@ -1,0 +1,19 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {background-color: white;}
+
+</style>
+</head>
+<center><a href="Homepage.html">Homepage</a></center>
+<img src="md.jpg" width="300" height="400">
+<img src="marketing.jpg" width="300" height="400">
+<img src="sales.jpg" width="300" height="400">
+<img src="team.jpg" width="350" height="300">
+
+
+</body>
+</html>
